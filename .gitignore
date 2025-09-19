@@ -1,0 +1,10 @@
+Entorno virtual
+venv/
+.venv/
+
+Archivos de Python generados
+pycache/
+*.pyc
+
+Archivos de datos locales
+data/
